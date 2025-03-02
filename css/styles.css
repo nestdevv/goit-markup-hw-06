@@ -676,7 +676,7 @@ img {
  fill: #4D5AE5;
 }
 
-.modal-form-input{
+.modal-form-input:focus {
   fill: #4D5AE5;
 }
 
