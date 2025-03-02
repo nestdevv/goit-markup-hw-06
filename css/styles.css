@@ -525,7 +525,7 @@ img {
 
 .footer-sub-btn {
   height: 40px;
-  width: 165px;
+  min-width: 165px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -535,4 +535,21 @@ img {
   letter-spacing: 0.04em;
   text-align: center;
   color: #fff;
+  font-family: inherit;
+  margin-left: 16px;
+  
+}
+
+.footer-sub-btn {
+  fill: white;
+  margin-left: 16px;
+}
+
+.sub-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0,02em;
+  color: #fff;
+  margin-bottom: 16px;
 }
