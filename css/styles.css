@@ -680,10 +680,6 @@ img {
   fill: #4D5AE5;
 }
 
-.modal-form-input:focus {
-  border-color: #4D5AE5;
-}
-
 .modal-textarea {
   width: 100%;
   height: 120px;
