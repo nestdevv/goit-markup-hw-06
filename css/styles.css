@@ -672,11 +672,19 @@ img {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-form-icon:focus + .modal-form-input{
+.modal-form-icon:focus {
  fill: #4D5AE5;
 }
 
-.modal-form-input:focus  {
+.footer-subscribe {
+  max-width: ;
+}
+
+.modal-form-input:focus {
+  fill: #4D5AE5;
+}
+
+.modal-form-input:focus {
   border-color: #4D5AE5;
 }
 
