@@ -535,12 +535,12 @@ img {
   letter-spacing: 0.04em;
   text-align: center;
   color: #fff;
-  font-family: inherit;
+  font-family: Roboto, sans-serif;
   margin-left: 16px;
   
 }
 
-.footer-sub-btn {
+.footer-sub-icon {
   fill: white;
   margin-left: 16px;
 }
@@ -549,7 +549,7 @@ img {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0,02em;
+  letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
 }
