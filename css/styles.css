@@ -498,12 +498,9 @@ img {
 
 .footer-email-form {
   display: flex;
-  width: 264px;
-  height: 40px;
   gap: 24px;
-  border: 1px solid #fff;
-  border-radius: 4px;
 }  
+
 
 .footer-form-input {
   color: #fff;
@@ -523,6 +520,10 @@ img {
   color: #fff;
 }
 
+.social-container {
+  margin-right: 80px;
+}
+
 .footer-sub-btn {
   height: 40px;
   min-width: 165px;
@@ -536,6 +537,11 @@ img {
   text-align: center;
   color: #fff;
   font-family: "Roboto", sans-serif;  
+}
+
+.footer-sub-btn:hover,
+.footer-sub-btn:focus {
+  background-color: #31d0aa;
 }
 
 .footer-sub-icon {
