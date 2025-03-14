@@ -582,9 +582,8 @@ body {
 
 .team-list {
   display: flex;
+  flex-direction: row;
   gap: 72px;
-  justify-content: center;
-  flex-wrap: wrap;
 }
 
 .team-mem {
