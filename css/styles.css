@@ -977,7 +977,7 @@ body {
   }
 }
 
-@media screen and (max-width: 1158px) {
+@media screen and (min-width: 1158px) {
   .page-footer {
     padding: 100px 0;
   }
@@ -985,6 +985,7 @@ body {
     max-width: 1158px;
     flex-wrap: nowrap;
     justify-content: space-between;
+    gap: unset;
   }
   .social-list-nav.footer-list-nav:hover,
   .social-list-nav.footer-list-nav:focus {
